@@ -30,7 +30,7 @@ Particular focii: risk analysis
 
 - **Languages/Libraries:** Python (scikit-learn, QuantLib, pandas, polars, NumPy), LaTeX
 - **Financial Modelling:** Risk analysis, option pricing, portfolio optimisation, econometrics
-- **Software/Infra:** Git, Bloomberg Terminal, Jupyter
+- **Software/Infra:** Git, Jupyter
 
 ---
 
