@@ -29,11 +29,13 @@ Particular focii: risk analysis
 - Build quant trading projects
 - Learn C++ for performance
 
-## Contact Me
+## Contact
 
-- Email: alex.ainley@aol.co.uk  
-- GitHub: https://github.com/alex-ainley  
-- LinkedIn: https://www.linkedin.com/in/alex-ainley/
+
+- [LinkedIn](https://linkedin.com/in/alex-ainley)  
+- [GitHub](https://github.com/alex-ainley)
+- Email Address: alex.ainley@aol.co.uk
+
 
 
 
