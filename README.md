@@ -1,7 +1,7 @@
 # Alex Ainley
 
 ## About Me
-BSc. **Natural Sciences (Mathematics & Physics)**  \-  Durham University
+BSc. **Natural Sciences, Mathematics & Physics**  (Durham University)
 
 Aspiring quant with an interest in mathematics, physics, and their use in financial modelling.  
 Particular focii: risk analysis
