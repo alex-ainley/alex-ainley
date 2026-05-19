@@ -3,8 +3,8 @@
 ## About Me
 BSc. **Natural Sciences, Mathematics & Physics**  (Durham University)
 
-Aspiring quant with an interest in mathematics, physics, and their use in financial modelling.  
-Particular focii: risk analysis
+Aspiring quant with an interest in mathematics, physics, and their intersection with finance and financial modelling. 
+
 
 --- 
 
